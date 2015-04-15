@@ -195,6 +195,3 @@ def total():
 	print cost
 
 total()
-		single_unit += cost(unit, upgrade_level, number_units)
-		break
-		print single_unit
